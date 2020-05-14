@@ -117,11 +117,10 @@ $ vendor/bin/phpunit
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email mhetreramesh@gmail.com instead of using the issue tracker.
+Use issue tracker
 
 ## Credits
 
